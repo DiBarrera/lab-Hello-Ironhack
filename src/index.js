@@ -1,8 +1,16 @@
+// Archivos de entrada
+
+// 1. IMPORTACIONES
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+
+// a. Importación de componentes
 import reportWebVitals from './reportWebVitals';
+
+// 2. RENDERIZADO
 
 ReactDOM.render(
   <React.StrictMode>
